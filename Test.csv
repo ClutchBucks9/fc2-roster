@@ -101,7 +101,7 @@ TEAM,AAC,East,Connecticut,CONN,50,APP,,,,,,,
 # Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
 # OC,OSU,Mike Yurich,45,95,QB,Deep Pass,,,,,,,
 # Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
-# DC,OSU,Kerry Coombs,45,85,CB,Deep Pass,,,,,,,
+# DC,OSU,Kerry Coombs,50,85,CB,Deep Pass,,,,,,,
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
 # PLAYER,OSU,QB,Justin Fields,Fr,75,225,5,,,,,,
 # OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
