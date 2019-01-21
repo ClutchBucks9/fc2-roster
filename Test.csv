@@ -97,13 +97,13 @@ TEAM,AAC,East,Temple,TEM,70,CIN,,,,,,,
 TEAM,AAC,East,East Carolina,ECU,55,MEM,,,,,,,
 TEAM,AAC,East,Connecticut,CONN,50,APP,,,,,,,
 # Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme,,,,
-# COACH,OSU,Ryan Day,40,95,80,90,90,Spread,Aggressive,,,,
+COACH,OSU,Ryan Day,40,95,80,90,90,Spread,Aggressive,,,,
 # Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
-# OC,OSU,Mike Yurich,45,95,QB,Deep Pass,,,,,,,
+OC,OSU,Mike Yurich,45,95,QB,Deep Pass,,,,,,,
 # Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
-# DC,OSU,Kerry Coombs,50,85,CB,Deep Pass,,,,,,,
+DC,OSU,Kerry Coombs,50,85,CB,Deep Pass,,,,,,,
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
-# PLAYER,OSU,QB,Justin Fields,Fr,75,225,5,,,,,,
+PLAYER,OSU,QB,Justin Fields,Fr,75,225,5,,,,,,
 # OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
-PLAYER,OSU,QB,Dwayne Haskins,Jr,75,220,95,90,95,95,95,80,75
+PLAYER,OSU,QB,Dwayne Haskins,Jr,75,220,95,95,90,95,100,80,75
 END_FILE,,,,,,,,,,,,,
